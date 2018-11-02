@@ -1,3 +1,5 @@
+fork of detect-hardware-vendor-by-mac FIX mac address separated by "-" 
+
 # detect-hardware-vendor-by-mac
 Detect hardware device vendor by mac address
 https://www.npmjs.com/package/detect-hardware-vendor-by-mac
